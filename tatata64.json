@@ -1,7 +1,7 @@
 {
   "name": "Tatata64",
-  "vendorId": "0xFEF9",
-  "productId": "0x00F9",
+  "vendorId": "0xFEF5",
+  "productId": "0x0002",
   "matrix": { "rows": 5, "cols":14 },
   "layouts": {
     "keymap": [
